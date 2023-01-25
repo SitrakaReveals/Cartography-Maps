@@ -1,4 +1,5 @@
 #https://geocompr.robinlovelace.net/adv-map.html 
+#The first example.
 
 library(sf)
 library(terra)
