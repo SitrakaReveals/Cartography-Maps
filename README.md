@@ -15,3 +15,5 @@ NEXT STEP :
 Aerialod software
 
 Source : https://www.youtube.com/watch?v=zgFXVhmKNbU&t=5s
+
+OSM : https://wiki.openstreetmap.org/wiki/Map_features#Roads
