@@ -1,4 +1,4 @@
-#This is from : https://github.com/Pecners/youtube_tutorials/blob/main/tutorials/join_summarise_spatial_data/join_and_summarise_spatial_data.R
+#This is from : https://github.com/Pecners/youtube_tutorials
 # Also I watched his awesome vidéo !! 
 # At the time, 01/2023, I can't manage to reproduce it for Luxembourg but still. 
 
