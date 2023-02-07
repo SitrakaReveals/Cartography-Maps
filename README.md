@@ -8,7 +8,13 @@ I will try to make a cool map of Luxembourg.
 > Idea 2 : Banks on a map ? 
 
 
-NEXT STEP : 
+
+
+## NEXT STEP : 
+🧪 Merge Density + Lux Map 
+Then get pics
+
+
 Aerialod software
 
 ## Source : 
