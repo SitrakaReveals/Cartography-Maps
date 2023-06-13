@@ -55,12 +55,9 @@ if (!identical(luxembourg_crs, lux_pop_density_crs)) {
 # Now the CRS of the two objects should be the same and you can use st_intersects
 result <- st_intersects(luxembourg, lux_pop_density)
 
-
-
 int <- st_intersects(luxembourg ,lux_pop_density)
 
 int <- st_intersects(lux_pop_density ,luxembourg)
-
 
 #Trying to change it manually .... 
 lux_pop_density_3857 <- st_transform(lux_pop_density, 3857)
