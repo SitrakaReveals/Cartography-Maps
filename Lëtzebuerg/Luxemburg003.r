@@ -36,7 +36,6 @@ fr_level_2 <- getData("GADM", country = "LU", level = 2) |>
 fr_level_2 |> 
   ggplot() +
   geom_sf()
-
 # https://wiki.openstreetmap.org/wiki/Map_features 
 
 luxembourg |> 
