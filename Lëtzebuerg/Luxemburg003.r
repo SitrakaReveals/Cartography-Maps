@@ -8,7 +8,6 @@ library(MetBrewer)
 library(colorspace)
 #to read : https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html
 
-
 # download Lux Pop density 
 lux_pop_density <- st_read("Data/map/kontur_population_LU_20220630.gpkg")
 
