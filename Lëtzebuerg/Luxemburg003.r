@@ -74,8 +74,6 @@ sum_joined <- joined |>
   group_by(GID_2) |> 
   count()
 
-
-
 st_dd <- map_dbl(int, function(i) {
   if (length(i) > 0) {
     return(i)
